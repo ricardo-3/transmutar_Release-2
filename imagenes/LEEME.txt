@@ -1,0 +1,7 @@
+Guardá acá las imágenes de tus anuncios.
+
+Tamaño recomendado: 1200 x 400 píxeles (proporción 3:1).
+Formatos: JPG, WebP o PNG. Peso recomendado: hasta 200 KB por imagen.
+Nombres sugeridos: banner-1.jpg, banner-2.jpg, banner-3.jpg.
+
+Los pasos completos están en GUIA-GITHUB-Y-BANNERS.txt, en la raíz del proyecto.
